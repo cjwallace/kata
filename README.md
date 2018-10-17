@@ -1,3 +1,3 @@
 # Kata
 
-A small collection of Kata problems and solutions.
+A small collection of kata problems and solutions.
